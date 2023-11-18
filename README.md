@@ -13,7 +13,7 @@
 <br>
 
 
-Este projeto foi criado para exemplificar a construção de testes usando a ferramenta Cypress para o projeto de EBook da FATEC Araras, feito na disciplina de Qualidade de Testes de Software.
+Este projeto foi criado para exemplificar a construção de testes usando a ferramenta Cypress para o EBook da FATEC Araras, feito na disciplina de Qualidade de Testes de Software durante o 6. Semestre de Desenvolvimento de Software Multiplataforma.
 
 ### Links úteis
 * 🔗 <a href="https://docs.cypress.io">Documentação Cypress</a>
